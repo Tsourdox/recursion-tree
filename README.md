@@ -11,3 +11,7 @@ I've desided to call it The Vegan Tree, don't know why, but veganism rock soooo,
 * ...Prevent the tree from growing into it self? 🤯
 
 Bye bye..
+
+* Oh, the tree should of course grow over time!
+
+[It has grown!](https://tsourdox.github.io/recursion-tree/)
